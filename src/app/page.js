@@ -79,7 +79,7 @@ export default function Home() {
 
       <section className="text-center">
         <h2 className="text-2xl font-semibold text-gray-800">
-          Hi, I'm Taiki Jeffers 👋
+          Hi, I&apos;m Taiki Jeffers 👋
         </h2>
         <p className="text-gray-600 mt-2">Fun Fact: I like to unicycle</p>
       </section>
